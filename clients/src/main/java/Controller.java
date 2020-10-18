@@ -14,7 +14,7 @@ public class Controller implements Initializable{
     public ListView<String> clientListView;
     public ListView<String> serverListView;
 
-    private String pathToDir = "client/src/main/resources/client_dir";
+    private String pathToDir = "clients/src/main/resources/client_dir";
     private DataInputStream inS;
     private DataOutputStream outS;
 

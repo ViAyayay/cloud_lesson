@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-IO</version>
     <modules>
+        <module>clients</module>
         <module>server</module>
-        <module>client</module>
+        <module>nio_ex</module>
     </modules>
 
     <build>
